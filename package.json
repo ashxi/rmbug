@@ -1,0 +1,23 @@
+{
+  "name": "rmbug",
+  "packageManager": "yarn@3.2.0",
+  "author": {
+    "email": "rosascript@gmail.com",
+    "name": "ashe"
+  },
+  "description": "debug package clone, but hopefully better",
+  "main": "./src/index.js",
+  "browser": "./src/browser.js",
+  "version": "0.1.0",
+  "keywords": [
+    "debug",
+    "log",
+    "debugger"
+  ],
+  "files": [
+    "README.md",
+    "src",
+    "LICENSE"
+  ],
+  "license": "MIT"
+}
