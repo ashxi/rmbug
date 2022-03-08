@@ -19,5 +19,9 @@
     "src",
     "LICENSE"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ashxi/rmbug.git"
+  }
 }
